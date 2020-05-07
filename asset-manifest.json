@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-DND-Flowchart/static/css/main.b6b24c9d.chunk.css",
+    "main.js": "/React-DND-Flowchart/static/js/main.eccba23a.chunk.js",
+    "main.js.map": "/React-DND-Flowchart/static/js/main.eccba23a.chunk.js.map",
+    "runtime-main.js": "/React-DND-Flowchart/static/js/runtime-main.9df735aa.js",
+    "runtime-main.js.map": "/React-DND-Flowchart/static/js/runtime-main.9df735aa.js.map",
+    "static/js/2.c9552b51.chunk.js": "/React-DND-Flowchart/static/js/2.c9552b51.chunk.js",
+    "static/js/2.c9552b51.chunk.js.map": "/React-DND-Flowchart/static/js/2.c9552b51.chunk.js.map",
+    "index.html": "/React-DND-Flowchart/index.html",
+    "precache-manifest.e418f8a2b150149b71bc3a941ae23b6f.js": "/React-DND-Flowchart/precache-manifest.e418f8a2b150149b71bc3a941ae23b6f.js",
+    "service-worker.js": "/React-DND-Flowchart/service-worker.js",
+    "static/css/main.b6b24c9d.chunk.css.map": "/React-DND-Flowchart/static/css/main.b6b24c9d.chunk.css.map",
+    "static/js/2.c9552b51.chunk.js.LICENSE.txt": "/React-DND-Flowchart/static/js/2.c9552b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9df735aa.js",
+    "static/js/2.c9552b51.chunk.js",
+    "static/css/main.b6b24c9d.chunk.css",
+    "static/js/main.eccba23a.chunk.js"
+  ]
+}
